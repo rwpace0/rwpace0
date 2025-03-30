@@ -6,7 +6,15 @@
 
 ###
 
-<p align="left">I’m a first-year computer science student at Washington State University, learning data structures and algorithms.</p>
+<p align="left">I’m a first-year computer science student at Washington State University, learning about object-oriented programming.</p>
+
+###
+
+<h2 align="left">🚀 What I'm Up To</h2>
+
+###
+
+<p align="left">📖Learning DSA<br>💻 Building Flask applications with PostgreSQL</p>
 
 ###
 
