@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📖Learning DSA<br>💻 Building Flask applications with PostgreSQL</p>
+<p align="left">📖Learning DSA<br>💻 Building a React-Native app with Node.js and Supabase</p>
 
 ###
 
